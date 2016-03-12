@@ -1,0 +1,55 @@
+﻿@charset "utf-8";
+body  {
+    background-color: #7e808c;
+	font-family: "黑体" ;
+	font-size: 25pt ;
+}
+h1{
+	  text-align: center;
+	  background-color: #7e808c;
+	
+}
+#titlename{
+	  text-align: center;
+	  margin-left: 15%;
+	  margin-right: 15%;
+}
+#titlename h1{
+	  text-align: center;
+	  background-color: #c6c7cf;
+	  margin: 0px;
+	  padding: 0px 0px 4px 0px;
+	  min-width: 150px;
+	  height: 75px;
+}
+#nav{  
+      background-color: #c6c7cf;
+	  width: 16%;
+	  min-width: 150px;
+	  margin-top: 0px;
+	  margin-left: 15%;
+	  float: left;
+	  height:435px;
+}
+#nav h3{
+	  margin-left: 8px;
+	  margin-top: 10px;
+	  margin-bottom: 0px;
+}
+#content{
+	background-color: #c6c7cf;
+	font-family: "仿宋" ;
+	margin-right: 15%;
+	padding-left: 0.5%;
+	width: 53%;
+	min-width: 540px;
+	float: right;
+	height:435px;
+}
+#copyright{
+	background-color: white;
+	margin-left: 15%;
+	margin-right: 15%;
+	padding-left: 0.5%;
+	clear: both;
+}
